@@ -30,7 +30,7 @@ int main() {
     printf("digite o pib: \n");
     scanf("%f", &pib);
 
-    printf("Carta 1 \n");
+    printf("Carta 2 \n");
     printf("Estado: %c\n", estado);
     printf("Codigo da Carta: %s\n", codigocarta);
     printf("Nome da Cidade: %s\n", nomecidade);
